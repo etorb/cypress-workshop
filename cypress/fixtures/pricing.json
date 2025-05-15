@@ -1,0 +1,35 @@
+{
+    "currency": "EUR",
+    "prices": {
+        "weather": {
+            "startup": 0,
+            "dev": null,
+            "pro": 410,
+            "expert": 1200,
+            "ent": 2000
+        },
+        "history": {
+            "start": 130,
+            "med": 820,
+            "hb": 9,
+            "hfb": 40
+        },
+        "onecall_30": {
+            "base": 0.0014
+        },
+        "energy": {
+            "base": 0.11,
+            "location": 300,
+            "shb_3y": 120,
+            "shb_all": 300,
+            "shfb_3y": 300,
+            "sihb": 30
+        },
+        "tailored": {
+            "solar_radiation": 770,
+            "global_alerts": 110,
+            "maps_1h": 545,
+            "gp_maps": 545
+        }
+    }
+}
